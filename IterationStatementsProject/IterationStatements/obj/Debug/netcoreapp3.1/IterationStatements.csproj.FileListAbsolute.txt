@@ -1,0 +1,14 @@
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.exe
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.deps.json
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.runtimeconfig.json
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.runtimeconfig.dev.json
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.dll
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.pdb
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.csproj.AssemblyReference.cache
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.AssemblyInfo.cs
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.dll
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.pdb
+C:\Users\install\OneDrive\Desktop\Repos\Learning Loops\Excersize2\IterationStatementsProject\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.genruntimeconfig.cache
